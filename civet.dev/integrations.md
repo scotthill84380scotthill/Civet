@@ -42,3 +42,5 @@ title: Integrations
 ## Tooling
 
 - [YavaScript](https://github.com/suchipi/yavascript) is a standalone script runner supporting Civet (no Node required)
+
+<!-- Auto-update: 2025-10-17T11:04:45.357001 -->
